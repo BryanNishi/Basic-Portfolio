@@ -1,3 +1,43 @@
-body {
-    background-img: url("http://bgfons.com/uploads/beton/beton_texture4799.jpg");
+h1 {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 10px;
+    width: 175px;
+    text-align: center;
+    float: left;
+    
+}
+header{
+    background-color: white;
+}
+.nav{
+    
+    color: #999;
+    padding: 20px;
+    text-align: right;
+    margin-top: -10px;
+    box-shadow: 3px #666;
+}
+a, a:visited {
+    text-decoration: none;
+    color: #999;
+    }
+body{
+    background: url(../images/texture.jpg);
+}
+.about{
+    background-color: white;
+    width: 800px;
+    margin: 0 auto;
+}
+h2 {
+    color: #4aaaa5;
+    
+}
+
+footer{
+    background-color: #666;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
 }
